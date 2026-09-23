@@ -1,0 +1,2 @@
+Rollno 	Name 	Department 	CGPA 	
+33	Haroon Afzal	IT	3.76	
