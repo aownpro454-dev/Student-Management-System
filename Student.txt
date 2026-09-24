@@ -1,2 +1,5 @@
-Rollno 	Name 	Department 	CGPA 	
+Rollno 	Name	    Department 	CGPA
+10 	Ali Khan	CS	2.6
+24	Ahmad Ali	SE	3.3
 33	Haroon Afzal	IT	3.76	
+	
